@@ -14,7 +14,7 @@
 		<?php
 		/**
 		 * Filter the author bio avatar size.
-		 *
+		 *Filter the author bio avatar size.
 		 * @since Twenty Fifteen 1.0
 		 *
 		 * @param int $size The avatar height and width size in pixels.
